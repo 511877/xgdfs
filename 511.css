@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+	background-image: url("123.jpg");
+	background-size:cover;
+	background-position: 20px;
+}
+div{
+	position: relative;
+}
+img{height: 100px;
+    width: 100px;
+    display:block;
+    margin:auto;
+    border-radius: 50%;
+}
+#container{
+	background-color: white;
+	opacity: 60%;
+    height:  500px;
+    width: 500px;
+    margin: auto;
+    top: 100px;
+    border-radius: 50px;
+
+}
+p{text-align: center;
+  font-size:20px;
+  font-family:"楷体";
+
+}
